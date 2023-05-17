@@ -1,6 +1,10 @@
 # Lending_Loan_Club
 Data Analysis of a complete loan data for all loans issued through January to December of 2018 by LENDING CLUB STATISTICS
 
+![Dashboard](https://github.com/Ayokunlewaakinnawo/Loan-Data-Analytics/assets/49082413/68d5c3bf-5908-46af-900f-2108abd103be)
+
+
+
 The project is specifically designed to analyze the loan dataset from LENDINGCLUB STATISTICS which is contained in the .csv file named “loan1.csv” , this file holds a complete loan data for all loans issued through January to December of 2018, including the current loan status (Current, Late, Fully Paid, etc.), date of issued loan, loan grade, interest rate, and latest payment information among many other information as show in the columns of the file. 
 
 At the end of analyzing and Manipulating  this data, I was able to come up with graphical charts for each of; 
